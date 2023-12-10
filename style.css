@@ -108,9 +108,10 @@ text-align: center;
 	/* background-color: #1F1717; */
 	background-color: #000000;
 	color: #cfd7de;
-	padding-bottom: 30px;
+	padding-bottom: 50px;
 	margin: 0;
-	margin-top: -50px;
+	padding-top: 40px;
+	
 	
 }
 .serv h2 {
@@ -207,9 +208,9 @@ justify-content: space-between;
 	width: 100%;
 	justify-content: space-around;
 	/* margin-top: 40px; */
-	background-color: #F5F5F5;
+	/* background-color: #F5F5F5; */
 	margin-left: 0%;
-	padding-top: 104px;
+	padding-top: 105px;
 	padding-bottom: 110px;
 }
 .row h2{
