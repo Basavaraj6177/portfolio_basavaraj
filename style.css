@@ -282,8 +282,8 @@ footer{
 }
 @media screen and (max-width: 800px) {
 	#lap img{
-		max-width: 400px;
-		max-height: 350px;
+		max-width: 350px;
+		max-height: 320px;
 		padding-bottom: 10px;
 	}
 	.row{
@@ -293,7 +293,7 @@ footer{
 	}
 	#pic{
 		max-width: 250px;
-		max-height: 220px;
+		max-height: 250px;
 	}
 	.row h2{
 		font-size: 35px;
