@@ -278,7 +278,9 @@ footer{
 	.icon-left{
 		margin-left: 10px;
 	}
-	
+	p.pp{
+		font-size: 10px;
+	}
 }
 @media screen and (max-width: 800px) {
 	#lap img{
